@@ -18,6 +18,3 @@ Essential commands
 <git status> -> check for the status
 
 <git log> -> check for the log history
-
-
-
